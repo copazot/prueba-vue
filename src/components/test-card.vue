@@ -1,8 +1,8 @@
 <template>
 	<div class="card">
 		<div class="card-body">
-			<h3>{{ title }}</h3>
-			<p>{{ content }}</p>
+			<h3 class="mb-5">{{ title }}</h3>
+			<p class="mb-4">{{ content }}</p>
 			<button class="btn" :class="parceColor">{{ textButton }}</button>
 		</div>
 	</div>

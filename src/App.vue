@@ -163,8 +163,8 @@
         <div class="row">
             <div class="col-md-6">
                 <card-test 
-                    title="Componente prueba" 
-                    content="Este es un test de card para probar componentes de Vue + Bootstrap"
+                    title="Componente de prueba" 
+                    content="Este es una prueba de componentes de Vue + Bootstrap"
                     textButton = "Continuar"
                     color = "secondary"
                     >
